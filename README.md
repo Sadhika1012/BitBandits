@@ -1,2 +1,3 @@
 # BitBandits
-Helping Hands System 
+Helping Hands System using C++
+
